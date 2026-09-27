@@ -25,7 +25,6 @@ website:
       - icon: link
         href: https://linktr.ee/adeleonescobar
   page-footer:
-    background: "#FAFBFC" # Matches your light background
     left: "© 2026 Alison De Leon Escobar"
     right: 
       - icon: envelope

@@ -3,7 +3,7 @@
     "path": "~/Documents/alison-portfolio/custom.scss",
     "project_path": "custom.scss",
     "type": "scss",
-    "hash": "0",
+    "hash": "4288291608",
     "contents": "",
     "dirty": false,
     "created": 1790466464663.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "136,1",
-        "scrollLine": "97"
+        "cursorPosition": "153,1",
+        "scrollLine": "114"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790493191,
+    "lastKnownWriteTime": 1790531659,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790493191405,
+    "last_content_update": 1790531659787,
     "read_only": false,
     "read_only_alternatives": []
 }

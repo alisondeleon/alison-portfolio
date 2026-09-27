@@ -3,7 +3,7 @@
     "path": "~/Documents/alison-portfolio/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3192200039",
+    "hash": "2362914422",
     "contents": "",
     "dirty": false,
     "created": 1790461406768.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "15,6",
+        "cursorPosition": "26,14",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790493308,
+    "lastKnownWriteTime": 1790531645,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790493308604,
+    "last_content_update": 1790531645293,
     "read_only": false,
     "read_only_alternatives": []
 }

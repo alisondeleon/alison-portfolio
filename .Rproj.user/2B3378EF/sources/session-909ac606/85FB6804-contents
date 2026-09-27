@@ -135,3 +135,20 @@ hr {
 section {
   border-bottom: none !important;
 }
+
+// Solid Plum Footer
+.nav-footer {
+  background: $primary !important; 
+  color: #FFFFFF !important;
+  border-top: none;
+}
+
+// Make the footer links and icons white
+.nav-footer a {
+  color: #FFFFFF !important;
+}
+
+// Turn the icons gold when hovered
+.nav-footer a:hover {
+  color: $secondary !important; 
+}
