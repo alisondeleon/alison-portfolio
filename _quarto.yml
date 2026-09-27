@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alison De Leon Escobar"
+  navbar:
+    background: "#4A154B"
+    left:
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: index.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/alisondeleon
+      - icon: envelope
+        href: mailto:adeleonescobar@fordham.edu
+      - icon: linkedin
+        href: https://linkedin.com/in/alison-de-leon
+      - icon: link
+        href: https://linktr.ee/adeleonescobar
+  page-footer:
+    background: "#FAFBFC" # Matches your light background
+    left: "© 2026 Alison De Leon Escobar"
+    right: 
+      - icon: envelope
+        href: mailto:adeleonescobar@fordham.edu
+      - icon: github
+        href: https://github.com/alisondeleon
+      - icon: linkedin
+        href: https://linkedin.com/in/alison-de-leon
+      - icon: link
+        href: https://linktr.ee/adeleonescobar
+
+format:
+  html:
+    theme: 
+      - flatly
+      - custom.scss
+    toc: true

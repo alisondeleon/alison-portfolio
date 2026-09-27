@@ -1,0 +1,73 @@
+---
+title: "Research"
+toc: true
+---
+
+A central through-line of my work explores **social epistemology**: how cues like language, accent, and race shape children's inferences about status and competence, and ultimately, determine whose knowledge they trust.
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+## Primary Research Themes
+
+<div class="card" style="padding: 20px; margin-bottom: 20px; display: flex; flex-direction: row; align-items: center; border: none; box-shadow: 0 4px 8px rgba(0,0,0,0.05); border-left: 5px solid #008080; background-color: #ffffff;">
+<div style="min-width: 80px; text-align: center; padding-right: 20px;">
+<i class="bi bi-chat-quote" style="font-size: 2.5rem; color: #008080;"></i>
+</div>
+<div>
+<h4 style="margin: 0 0 5px 0; font-size: 1.2rem;">The Social Evaluation of Language</h4>
+<p style="margin: 0; font-size: 0.9em; line-height: 1.5; white-space: normal;">
+How do children evaluate speakers based on the languages they speak or the accents they have? My core programmatic research treats bilingualism as a social category that triggers inferences about competence. While bilingualism is publicly celebrated as an asset, my work investigates the "double standard" where not all bilinguals benefit equally from this prestige.<br><br>Using forced-choice paradigms and behavioral measures, this work establishes that children generally apply a "more languages = more status" rule, whereas adults hold competing associations of prestige and foreignness. I am currently expanding this line of work in my dissertation to test the mechanisms behind these status attributions—specifically exploring selective trust, cultural learning, and boundary conditions like perceived phenotype. My theoretical work synthesizes how accents function as cues to trust, disentangling theories of social identity from processing fluency.
+</p>
+</div>
+</div>
+
+<div class="card" style="padding: 20px; margin-bottom: 20px; display: flex; flex-direction: row; align-items: center; border: none; box-shadow: 0 4px 8px rgba(0,0,0,0.05); border-left: 5px solid #008080; background-color: #ffffff;">
+<div style="min-width: 80px; text-align: center; padding-right: 20px;">
+<i class="bi bi-robot" style="font-size: 2.5rem; color: #008080;"></i>
+</div>
+<div>
+<h4 style="margin: 0 0 5px 0; font-size: 1.2rem;">Trust & Technology: Children's Perceptions of AI Agents</h4>
+<p style="margin: 0; font-size: 0.9em; line-height: 1.5; white-space: normal;">
+As artificial intelligence becomes ubiquitous in educational and social contexts, my research asks whether children apply the same human-to-human social reasoning to synthetic voices. Building on findings that accent effects persist with AI-generated audio, this line of work investigates how children evaluate the status of, and selectively learn from, accented AI agents. This research explores critical questions at the intersection of developmental psychology and human-computer interaction, including whether the assumption that AI "knows everything" persists when evaluating accented digital agents.
+</p>
+</div>
+</div>
+
+<div class="card" style="padding: 20px; margin-bottom: 30px; display: flex; flex-direction: row; align-items: center; border: none; box-shadow: 0 4px 8px rgba(0,0,0,0.05); border-left: 5px solid #008080; background-color: #ffffff;">
+<div style="min-width: 80px; text-align: center; padding-right: 20px;">
+<i class="bi bi-people" style="font-size: 2.5rem; color: #008080;"></i>
+</div>
+<div>
+<h4 style="margin: 0 0 5px 0; font-size: 1.2rem;">Racial Socialization</h4>
+<p style="margin: 0; font-size: 0.9em; line-height: 1.5; white-space: normal;">
+Where do children pick up the social hierarchies that influence their evaluations of others? In collaboration with EmbraceRace, my mixed-methods research analyzes how parents reason about discussing race with their children. By analyzing a nationally representative dataset of U.S. parents, this work challenges prior literature that treats egalitarian beliefs as a universal marker of progressive racial attitudes. Instead, I separate prescriptive egalitarianism ("the world should be equal, so we shouldn't discuss race") from descriptive color-consciousness ("the world isn't equal, so we must discuss it"), revealing how color-evasive ideologies persist even among parents who rate themselves as highly open to discussing race.
+</p>
+</div>
+</div>
+
+
+---
+
+## Publications & Manuscripts
+
+### Under Review & Revise/Resubmit
+*   **De Leon Escobar, A.**, & Gülgöz, S. (Revise & Resubmit). Status reasoning about bilingualism and accents across development. *Developmental Science*.
+
+### In Preparation
+*   **De Leon Escobar, A.** (In Prep). The role of accents as cues to trust and learning. *Developmental Review*.
+
+*   **De Leon Escobar, A.**, & Rucinski, C. (In prep). Color-conscious versus color-evasive ideologies in a nationally representative sample of US parents
+
+---
+
+## Interactive Data & Code
+
+As a proponent of open science practices and data visualization, I develop interactive tools to make research findings more accessible.
+
+*   **[Name of R Shiny Dashboard]**: [Link to the app]
+    *   *An interactive web application built with R Shiny to explore [insert dashboard topic].*
+*   **Quantitative & Mixed-Methods Repository**: [Link to GitHub]
+    *   *Contains R and SQL scripts for data cleaning, moderation analyses (e.g., race/ethnicity), and qualitative coding reliability protocols.*
+
+---

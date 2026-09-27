@@ -1,0 +1,59 @@
+---
+title: "Teaching"
+toc: true
+---
+
+::: {.callout-note appearance="simple" icon="false"}
+## Teaching Philosophy
+My teaching philosophy centers on making complex psychological and statistical concepts accessible, interactive, and directly applicable to real-world scenarios. I currently serve as the Instructor of Record for Foundations of Psychology, and have extensive experience guiding students through applied data analysis.
+:::
+
+### Foundations of Psychology (Introductory Psychology)
+*Role: Course Instructor*
+
+**Pedagogical Highlights:**
+
+*   **Real-World Application Project:** As a capstone, students select a psychological concept and apply it to a real-world scenario (e.g., a social media trend, historical event, news story, or personal experience). They then synthesize empirical research articles to explain the phenomenon, bridging the gap between scientific literature and everyday observation.
+*   **Interactive Sensation & Perception:** I embed real-time demonstrations into lectures to illustrate how our brains construct reality, including audio-visual illusions like the McGurk effect, the Yanny vs. Laurel auditory recordings, the dress color illusion, and examples of pareidolia.
+*   **Anchoring Conditioning:** To teach the nuances of classical and operant conditioning, I anchor the lesson in a highly relatable scenario: the temperature fluctuations of a residential cold shower. 
+*   **Applied Biological Psychology:** I integrate structural brain anatomy with discussions on neuroimaging trade-offs and historic neurological case studies (such as Patient H.M.) to ground neuroscience in human stories.
+
+[View Course Syllabus & Reading List (PDF)](foundations-syllabus.pdf){.btn .btn-primary}
+
+---
+
+## Teaching Assistantships
+
+### Introduction to Statistics 
+*Role: Graduate Teaching Assistant*
+
+I guided undergraduate students through the practical application of statistical theory, bridging the gap between mathematical formulas and actual data analysis. 
+
+**Pedagogical Highlights:**
+
+*   **Software Proficiency:** Instructed students in navigating and running analyses using statistical software, primarily **JASP** (as well as SPSS).
+*   **Applied Analysis:** Helped students translate raw data into meaningful psychological insights, focusing on selecting the appropriate statistical tests, interpreting output, and writing up results in APA format.
+
+---
+
+## Mentorship & Student Development
+
+Beyond the classroom, I am deeply committed to training the next generation of researchers, guiding undergraduates through the complete research lifecycle from study design to presentation.
+
+:::: {.columns}
+
+::: {.column width="48%"}
+### Honors Thesis Mentorship
+Guided (B.A. Psychology & Communications, 2026) through the development and execution of a quantitative analysis plan in [R]{.badge .bg-secondary} for their final honors thesis. Currently co-mentoring Ellie McCain (B.S. Psychology & English, expected 2027) through the data collection and statistical analysis phases of their thesis project.
+:::
+
+::: {.column width="4%"}
+<!-- This just creates an empty space between the columns -->
+:::
+
+::: {.column width="48%"}
+### Undergraduate Research
+Advising undergraduate research assistants Sarah Lorenzo and Debora Cohen, who collaborated on my color-evasiveness project. I am actively supporting them in preparing their findings for presentation at the Fordham Undergraduate Research Symposium.
+:::
+
+::::

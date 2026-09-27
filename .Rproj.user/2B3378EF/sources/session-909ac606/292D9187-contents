@@ -1,0 +1,64 @@
+/*-- scss:defaults --*/
+
+// 1. Import Inter from Google Fonts for your headers
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+// 2. Your custom color palette
+$primary: #4169E1 !default;       // Royal Blue
+$secondary: #4A90E2 !default;     // Blueberry Blue
+$body-bg: #FAFBFC !default;       // Slightly cooler, modern silver/grey background
+$body-color: #2C3E50 !default;    // Slate grey for softer, readable text
+$link-color: $secondary !default; // Blueberry blue links
+
+// 3. Define your typography
+// Body text uses Avenir (with fallbacks if the user's computer doesn't have it)
+$font-family-sans-serif: "Avenir", "Avenir Next", "Helvetica Neue", Arial, sans-serif !default;
+
+// Headers use the Inter font we imported above
+$headings-font-family: "Inter", sans-serif !default;
+$headings-font-weight: 800 !default; // Makes the headers bold and punchy
+
+
+/*-- scss:rules --*/
+
+// 4. Elevated UI touches (The "Cool Design" elements)
+
+// Gives the top navigation bar a modern drop shadow
+.navbar {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+// Styles the Table of Contents on the right side
+#TOC {
+  font-family: "Inter", sans-serif;
+  font-size: 0.9em;
+  border-left: 2px solid #E2E8F0;
+  padding-left: 15px;
+}
+
+// Interactive hover effect for all hyperlinks
+a {
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  color: $primary;
+  text-decoration: underline;
+  text-underline-offset: 4px; // Pushes the underline down slightly for a modern look
+}
+
+// Adds a sleek divider line under your main page headers
+h1 {
+  border-bottom: 3px solid $primary;
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  display: inline-block;
+}
+
+h2 {
+  margin-top: 40px;
+  color: #1A202C; // Darker slate for section headers
+}

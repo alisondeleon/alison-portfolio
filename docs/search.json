@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A central through-line of my work explores social epistemology: how cues like language, accent, and race shape children’s inferences about status and competence, and ultimately, determine whose knowledge they trust."
+  },
+  {
+    "objectID": "research.html#primary-research-themes",
+    "href": "research.html#primary-research-themes",
+    "title": "Research",
+    "section": "Primary Research Themes",
+    "text": "Primary Research Themes\n\n\n\n\n\n\nThe Social Evaluation of Language\n\n\nHow do children evaluate speakers based on the languages they speak or the accents they have? My core programmatic research treats bilingualism as a social category that triggers inferences about competence. While bilingualism is publicly celebrated as an asset, my work investigates the “double standard” where not all bilinguals benefit equally from this prestige.Using forced-choice paradigms and behavioral measures, this work establishes that children generally apply a “more languages = more status” rule, whereas adults hold competing associations of prestige and foreignness. I am currently expanding this line of work in my dissertation to test the mechanisms behind these status attributions—specifically exploring selective trust, cultural learning, and boundary conditions like perceived phenotype. My theoretical work synthesizes how accents function as cues to trust, disentangling theories of social identity from processing fluency.\n\n\n\n\n\n\n\n\n\nTrust & Technology: Children’s Perceptions of AI Agents\n\n\nAs artificial intelligence becomes ubiquitous in educational and social contexts, my research asks whether children apply the same human-to-human social reasoning to synthetic voices. Building on findings that accent effects persist with AI-generated audio, this line of work investigates how children evaluate the status of, and selectively learn from, accented AI agents. This research explores critical questions at the intersection of developmental psychology and human-computer interaction, including whether the assumption that AI “knows everything” persists when evaluating accented digital agents.\n\n\n\n\n\n\n\n\n\nRacial Socialization\n\n\nWhere do children pick up the social hierarchies that influence their evaluations of others? In collaboration with EmbraceRace, my mixed-methods research analyzes how parents reason about discussing race with their children. By analyzing a nationally representative dataset of U.S. parents, this work challenges prior literature that treats egalitarian beliefs as a universal marker of progressive racial attitudes. Instead, I separate prescriptive egalitarianism (“the world should be equal, so we shouldn’t discuss race”) from descriptive color-consciousness (“the world isn’t equal, so we must discuss it”), revealing how color-evasive ideologies persist even among parents who rate themselves as highly open to discussing race."
+  },
+  {
+    "objectID": "research.html#publications-manuscripts",
+    "href": "research.html#publications-manuscripts",
+    "title": "Research",
+    "section": "Publications & Manuscripts",
+    "text": "Publications & Manuscripts\n\nUnder Review & Revise/Resubmit\n\nDe Leon Escobar, A., & Gülgöz, S. (Revise & Resubmit). Status reasoning about bilingualism and accents across development. Developmental Science.\n\n\n\nIn Preparation\n\nDe Leon Escobar, A. (In Prep). The role of accents as cues to trust and learning. Developmental Review.\nDe Leon Escobar, A., & Rucinski, C. (In prep). Color-conscious versus color-evasive ideologies in a nationally representative sample of US parents"
+  },
+  {
+    "objectID": "research.html#interactive-data-code",
+    "href": "research.html#interactive-data-code",
+    "title": "Research",
+    "section": "Interactive Data & Code",
+    "text": "Interactive Data & Code\nAs a proponent of open science practices and data visualization, I develop interactive tools to make research findings more accessible.\n\n[Name of R Shiny Dashboard]: [Link to the app]\n\nAn interactive web application built with R Shiny to explore [insert dashboard topic].\n\nQuantitative & Mixed-Methods Repository: [Link to GitHub]\n\nContains R and SQL scripts for data cleaning, moderation analyses (e.g., race/ethnicity), and qualitative coding reliability protocols."
+  },
+  {
+    "objectID": "research.html#grants-fellowships-awards",
+    "href": "research.html#grants-fellowships-awards",
+    "title": "Research",
+    "section": "Grants, Fellowships & Awards",
+    "text": "Grants, Fellowships & Awards\n\nAmerican Psychological Foundation CogDop | Under Review\nPoint Foundation Persistence Scholarship ($500) | 2026\nFordham GSAS Student Support Grant ($450) | 2026\nNSF Graduate Research Fellowship Program (GRFP) | 2025\n\nHonorable Mention\n\nFordham GSAS Summer Fellowship ($4,500) | 2025\nFordham GSAS Student Support Grant ($673) | 2025\nSRCD Neimark Travel Award ($500) | 2025\nFordham GSAS Graduate Assistantship ($75,000/yr) | 2023–2027"
+  },
+  {
+    "objectID": "research.html#conference-presentations",
+    "href": "research.html#conference-presentations",
+    "title": "Research",
+    "section": "Conference Presentations",
+    "text": "Conference Presentations\n\nDe Leon Escobar, A., & Castro, S. (Upcoming). Status-based reasoning about bilingual speakers across development  in From Input to Identity: Multidimensional Perspectives on Bilingual Development. Symposium proposal under review for the 2027 Society for Research in Child Development (SRCD). (Co-Chair & Presenter).\nDe Leon Escobar, A., & Gülgöz, S. (2026, May). Monolingual children’s status-based evaluations of bilingual speakers. Talk presented at the Association for Psychological Science (APS) Annual Meeting, Barcelona, Spain. (Poster also accepted).\nDe Leon Escobar, A., & Gülgöz, S. (2026, April). Monolingual children’s status-based evaluations of bilingual speakers. Poster presented at the Cognitive Development Society (CDS) Biennial Meeting, Montréal, Canada.\nDe Leon Escobar, A., & Gülgöz, S. (2025, May). Language and Power: Children’s Reasoning About Bilingual Speakers. Poster presented at the Society for Research in Child Development (SRCD) Biennial Meeting, Minneapolis, MN."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alison De Leon Escobar",
+    "section": "",
+    "text": "I am a 4th year PhD Candidate in Applied Developmental Psychology at Fordham University researching developmental social cognition. My research utilizes mixed-methods approaches to understand how children and adults reason about groups within social hierarchies."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Alison De Leon Escobar",
+    "section": "Education",
+    "text": "Education\nPh.D. in Applied Developmental Psychology | Expected May 2028 Fordham University\nM.A. in Applied Developmental Psychology | 2025\nFordham University\nB.A. in Psychology, with Honors | 2022\nNew York University"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "NoteTeaching Philosophy\n\n\n\nMy teaching philosophy centers on making complex psychological and statistical concepts accessible, interactive, and directly applicable to real-world scenarios. I currently serve as the Instructor of Record for Foundations of Psychology, and have extensive experience guiding students through applied data analysis."
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Teaching",
+    "section": "Teaching Assistantships",
+    "text": "Teaching Assistantships\n\nIntroduction to Statistics\nRole: Graduate Teaching Assistant\nI guided undergraduate students through the practical application of statistical theory, bridging the gap between mathematical formulas and actual data analysis.\nPedagogical Highlights:\n\nSoftware Proficiency: Instructed students in navigating and running analyses using statistical software, primarily JASP (as well as SPSS).\nApplied Analysis: Helped students translate raw data into meaningful psychological insights, focusing on selecting the appropriate statistical tests, interpreting output, and writing up results in APA format."
+  },
+  {
+    "objectID": "teaching.html#mentorship-student-development",
+    "href": "teaching.html#mentorship-student-development",
+    "title": "Teaching",
+    "section": "Mentorship & Student Development",
+    "text": "Mentorship & Student Development\nBeyond the classroom, I am deeply committed to training the next generation of researchers, guiding undergraduates through the complete research lifecycle from study design to presentation.\n\n\n\nHonors Thesis Mentorship\nGuided (B.A. Psychology & Communications, 2026) through the development and execution of a quantitative analysis plan in R for their final honors thesis. Currently co-mentoring Ellie McCain (B.S. Psychology & English, expected 2027) through the data collection and statistical analysis phases of their thesis project.\n\n\n\n\n\nUndergraduate Research\nAdvising undergraduate research assistants Sarah Lorenzo and Debora Cohen, who collaborated on my color-evasiveness project. I am actively supporting them in preparing their findings for presentation at the Fordham Undergraduate Research Symposium."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download Full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D., Applied Developmental Psychology | Expected 2028\nFordham University\n\nAdvisor: Selin Gülgöz, PhD; Committee: Jing Tian, PhD, Karen Siedlecki, PhD, Betsy McCoach, PhD\nExternal Reviewer: Maria Arredondo, PhD\n\nM.A., Applied Developmental Psychology | 2025 Fordham University\n\nThesis: Language as a window to status: Monolingual children’s status-based reasoning about bilingual speakers\nAdvisor: Selin Gülgöz, PhD\n\nB.A., Honors Psychology; Minor in Chemistry | 2022\nNew York University\n\nThesis: Who do you want to be friends with? Examining children’s gender affiliative preferences\nAdvisor: Marjorie Rhodes, PhD"
+  },
+  {
+    "objectID": "cv.html#technical-methodological-skills",
+    "href": "cv.html#technical-methodological-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical & Methodological Skills",
+    "text": "Technical & Methodological Skills\n\nData Analysis: R, SQL, Python, SPSS, JASP\nProgramming: HTML, JavaScript\nExperimental Design & Software: Qualtrics, Salesforce, SurveyMonkey, Datavyu, Keynote, Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Illustrator\nLanguages: Spanish (native), English (native), Italian (conversational)"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research Experience",
+    "text": "Research Experience\nImpact Research Intern | Newsela (Summer 2026)\n\nDesigned and executed BigQuery SQL analyses on large-scale educational datasets using a dbt/GCP data warehouse architecture.\nProduced a strategic research report identifying data infrastructure gaps and evidence-based recommendations for improving platform support for bilingual/multilingual students.\n\nResearch Intern | EmbraceRace (2025–2026)\n\nLed end-to-end survey administration and project management for an original study with a nationally representative sample of 1,000 U.S. parents.\n\nResearcher | The Research and Insights Lab (TRAIL) (2024–Present)\n\nConducted end-to-end mixed methods research involving survey optimization, data collection, and statistical analyses (factor analyses, ANOVAs, semantic/thematic analyses).\n\nGraduate Research Apprentice | Social Thinkers Lab, Fordham University (2023–Present)\n\nLed independent research projects and conducted advanced statistical analyses in R for cognitive and behavioral data.\n\nPrevious roles include Graduate Researcher at CoDE Lab (Fordham), Lab Manager and Undergraduate Research Assistant at CDSC Lab (NYU)."
+  },
+  {
+    "objectID": "cv.html#fellowships-grants-awards",
+    "href": "cv.html#fellowships-grants-awards",
+    "title": "Curriculum Vitae",
+    "section": "Fellowships, Grants & Awards",
+    "text": "Fellowships, Grants & Awards\n\nPoint Foundation Persistence Scholarship ($500) | 2026\nFordham GSAS Student Support Grant (SSG) ($450) | 2026\nNSF Graduate Research Fellowship Program (GRFP) | 2025 (Honorable Mention)\nFordham GSAS Summer Fellowship ($4,500) | 2025\nFordham GSAS Student Support Grant (SSG) ($673) | 2025\nSociety for Research in Child Development (SRCD) Neimark Travel Award ($500) | 2025\nFordham GSAS Graduate Assistantship ($75,000/yr) | 2023–2027\nEileen Guggenheim Research Scholar | 2021\nHispanic Scholarship Federation Scholar ($4,000) | 2021\nNYU Dean’s Opportunity Fund Recipient ($500) | 2021\nNYU Dean’s Undergraduate Research Fund (DURF) Recipient ($1,000) | 2020–2021 & 2019–2020\nNYU Wasserman Internship Grant ($1,000) | 2019\nAlbert Shanker College Scholarship Fund of the UFT Recipient ($5,000) | 2018–2022\nArthur O. Eve. Higher Education Opportunity Program (HEOP) Scholarship ($80,000/yr) | 2018–2022"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nInstructor of Record\nPSYC 1200, Foundations of Psychology, Fordham University | 2026\nGraduate Teaching Assistantship\nPSYC 2000, Introduction to Statistics, Fordham University | 2025, 2026\nNSCI 1413, General Biology Lab I, Fordham University | 2024\nNSCI 1414, General Biology Lab II, Fordham University | 2023\nUndergraduate Teaching Assistant\nPSYCH-UA 1, Introduction to Psychology, New York University | 2022"
+  },
+  {
+    "objectID": "cv.html#mentorship-leadership",
+    "href": "cv.html#mentorship-leadership",
+    "title": "Curriculum Vitae",
+    "section": "Mentorship & Leadership",
+    "text": "Mentorship & Leadership\n\nStudent Rep, Fordham Applied Developmental Psychology Executive Council: Advocated for the 2023 ADP doctoral cohort and enabled active communication between students and faculty.\nMentor, Fordham Psychology Peer Mentoring Program: Mentored undergraduate students from traditionally underrepresented backgrounds in Psychology (2023–2025).\nResearch Ambassador, NYU College of Arts & Sciences: Conducted workshops on engaging in research and offered feedback on NYU DURF grant applications (2021–2022).\nMentor, NYU Academic Achievement Program (AAP): (2019–2022).\nResearch Fellow, NYU CSTEP: Led workshops on reading scientific papers and mentored younger students (2019–2022)."
+  },
+  {
+    "objectID": "cv.html#select-publications-technical-reports",
+    "href": "cv.html#select-publications-technical-reports",
+    "title": "Curriculum Vitae",
+    "section": "Select Publications & Technical Reports",
+    "text": "Select Publications & Technical Reports\n\nDe Leon Escobar, A., Gülgöz, S. (Revise & Resubmit, Developmental Science). Status reasoning about bilingualism and accents across development.\nDe Leon Escobar, A., Rucinski, C. (In progress). Color-conscious versus color-evasive ideologies in a nationally representative sample of US parents.\nDe Leon Escobar, A., Gülgöz, S. (In progress). The role of accents as cues to trust and learning.\nDe Leon Escobar, A., Landrigan, J., (2026). Bilingual and multilingual student outcomes on Newsela: A matched comparison study of reading growth using platform engagement and NWEA MAP assessment data. Newsela (Internal report).\nHoxie, A.M., De Leon Escobar, A. (2025). League of Young Inventors: Evaluation Report. Research and Insights Lab."
+  },
+  {
+    "objectID": "cv.html#select-conference-presentations",
+    "href": "cv.html#select-conference-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Select Conference Presentations",
+    "text": "Select Conference Presentations\n\nDe Leon Escobar, A., Gülgöz, S. (2026, May). Monolingual children’s status-based evaluations of bilingual speakers. Talk presented at the 2026 Association for Psychological Science (APS) Annual Meeting, Barcelona, SP. (Poster also accepted) .\nDe Leon Escobar, A., Gülgöz, S. (2026, April). Monolingual children’s status-based evaluations of bilingual speakers. Poster presented at the 2026 Cognitive Development Society (CDS) Biennial Meeting, Montréal, CA .\nDe Leon Escobar, A., Gülgöz, S. (2025, May). Language and Power: Children’s Reasoning About Bilingual Speakers. Poster presented at the 2025 Society for Research in Child Development (SRCD) Biennial Meeting, Minneapolis, MN ."
+  }
+]
