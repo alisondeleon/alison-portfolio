@@ -44,7 +44,7 @@ Beyond the classroom, I am deeply committed to training the next generation of r
 
 ::: {.column width="48%"}
 ### Honors Thesis Mentorship
-Guided (B.A. Psychology & Communications, 2026) through the development and execution of a quantitative analysis plan in [R]{.badge .bg-secondary} for their final honors thesis. Currently co-mentoring Ellie McCain (B.S. Psychology & English, expected 2027) through the data collection and statistical analysis phases of their thesis project.
+Guided Nhi Pham (B.A. Psychology & Communications, 2026) through the development and execution of a quantitative analysis plan in [R]{.badge .bg-secondary} for their final honors thesis. Currently co-mentoring Ellie McCain (B.S. Psychology & English, expected 2027) through the data collection and statistical analysis phases of their thesis project.
 :::
 
 ::: {.column width="4%"}

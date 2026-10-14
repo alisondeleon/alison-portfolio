@@ -13,28 +13,28 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
-      - href: index.qmd
-        text: About
+      - href: gallery.qmd
+        text: Gallery
     right:
       - icon: github
         href: https://github.com/alisondeleon
       - icon: envelope
         href: mailto:adeleonescobar@fordham.edu
+      - icon: twitter
+        href: https://twitter.com/theephd
       - icon: linkedin
         href: https://linkedin.com/in/alison-de-leon
-      - icon: link
-        href: https://linktr.ee/adeleonescobar
   page-footer:
     left: "© 2026 Alison De Leon Escobar"
     right: 
-      - icon: envelope
-        href: mailto:adeleonescobar@fordham.edu
       - icon: github
         href: https://github.com/alisondeleon
+      - icon: envelope
+        href: mailto:adeleonescobar@fordham.edu
+      - icon: twitter
+        href: https://twitter.com/theephd
       - icon: linkedin
         href: https://linkedin.com/in/alison-de-leon
-      - icon: link
-        href: https://linktr.ee/adeleonescobar
 
 format:
   html:

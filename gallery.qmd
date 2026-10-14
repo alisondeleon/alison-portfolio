@@ -1,0 +1,36 @@
+---
+title: "Gallery"
+toc: true
+---
+
+A visual diary of research presentations, academic travel, and the behind-the-scenes reality of my #phdiva journey.
+
+## On the Road: APS Barcelona
+*Association for Psychological Science Annual Meeting | May 2026*
+
+::: {layout="[[1, 1], [1]]"}
+![Taking in the incredible architecture at Park Güell.](images/park_guell.jpg)
+
+![Mandatory conference fuel: authentic seafood paella.](images/barcelona_food.jpg)
+
+![Presenting my first solo talk.](images/aps_slides.jpg)
+:::
+
+## On the Road: CDS Montréal
+*Cognitive Development Society Biennial Meeting | April 2026*
+
+::: {layout="[[1], [1, 1]]"}
+![Presenting my poster on monolingual children's reasoning.](images/cds_poster.jpg)
+
+![Pre-conference mirror selfie check.](images/cds_mirror.jpg)
+
+![Exploring the local Montréal culinary scene.](images/montreal_restaurant.jpg)
+:::
+
+## Behind the Scenes
+
+::: {layout-ncol=2}
+![Where the writing actually happens: my grad student office.](images/grad_office.jpg)
+
+![A stunning purple and orange sunset over the Fordham campus.](images/fordham_sunset.jpg)
+:::
